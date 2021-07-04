@@ -12,4 +12,7 @@ Components:
 8. Breadboard - Big or Small
 9. 2 Wheeled Chasis
 
+Simulator:
+https://www.tinkercad.com/things/5tGqFvzsAS1-shiny-maimu-bombul/editel?sharecode=9WuQ5gYhm0sMW2wTryEC-_FA5KH6GOERq-oaFx3W8kw
+
 
